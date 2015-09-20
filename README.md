@@ -2,7 +2,7 @@
 Makes some text bounce around in OCaml
 
 ## Example
-To be added...
+https://asciinema.org/a/1n31z4smqtmodlq08qkz5hhc4
 
 ### Renda
 Happy Birthday
