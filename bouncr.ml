@@ -1,6 +1,7 @@
 open Printf
 module T = ANSITerminal
 
+(* http://stackoverflow.com/a/10789674 *)
 let minisleep (seconds:float) =
   ignore (Unix.select [] [] [] seconds)
 
